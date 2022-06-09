@@ -7,20 +7,16 @@ Then, research the question to expand on your answer. Even if you feel you have 
 
 1. What are props in React?
 
-  Your answer: Props passes information for parent to child in one direction and cannot be updated.
+  Your answer: Props passes information from parent to child in one direction and cannot be updated.
 
-  Researched answer: In React, Props are arguments that are passed into React components, they are passed to components by way of HTML  attributes. The role of props in  React is similar to JavaScript arguments and attributes in HTML.
-
-https://www.w3schools.com/react/react_props.asp
+  Researched answer: Props is the shortened version of properties. As stated above props passes information from parent to child in one direction and cannot be updated. The variable name that is generated is information that comes from the state object.
 
 
 2. What is a DOM event? HTML reacting to HTML events.
 
-  Your answer: DOM event are functions executed in order.
+  Your answer: DOM events are functions executed in order.
 
-  Researched answer: HTML DOM events allow JavaScript to register different event handlers on elements in an HTML document. Events are normally used in combination with functions, and the function will not be executed before the event occurs (such as when a user clicks a button).
-
-https://www.w3schools.com/jsref/dom_obj_event.asp
+  Researched answer: The DOM event helps to make a pat more dynamic, it will not execute unless the functions are in order. The functions are called event handlers.
 
 
 3. What is object-oriented programming? How is it different than functional programming?
@@ -29,11 +25,10 @@ https://www.w3schools.com/jsref/dom_obj_event.asp
   
   OOP stores data in objects, functional programming does not.
 
-  Researched answer: Object-oriented programming (OOP) is programming that is based on the concept of objects. It arranges software design throughout data and objects instead of functions and logic.
+  Researched answer: Object-oriented programming (OOP) is programming that is based on the concept of objects. The software is put in order throughout the data and objects instead of functions and logic.
 
-  Functional programming and object-oriented programming uses different methods for storing and manipulating the data. In functional programming, data cannot be stored in objects, and it can only be transformed by creating functions. In object-oriented programming, data is stored in objects.
+  Functional programming and object-oriented programming uses different methods for storing and manipulating the data. The functional programming does not store data in objects,object-oriented programming does.
 
-https://www.educba.com/functional-programming-vs-oop/
 
 4. What is the difference between a Float and an Integer in Ruby?
 
@@ -41,9 +36,7 @@ https://www.educba.com/functional-programming-vs-oop/
 
   Researched answer: A floating-point representing a decimal integer with either decimal points or fractions expressed.
 
-  Integers and floats are two different kinds of numerical data. An integer (more commonly called an int) is a number that does not have a decimal point. A float is a floating-point number, representing a number that has a decimal place. If more precision is needed float is used
-
-https://processing.org/examples/integersfloats.html
+  Integers and floats are different. An integer does not have a decimal point. A float is a floating-point number.
 
 5. Ruby has an implicit return. What does that mean?
 
